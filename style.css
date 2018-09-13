@@ -1,0 +1,19 @@
+body{
+ background-color: black;
+}
+
+#red-text{
+ color: red;
+}
+
+#main-title{
+ color: red; 
+ border-color: red;
+ border-style: groove;
+ border-width: 10px;
+ 
+}
+
+li{
+ color:red;
+}
